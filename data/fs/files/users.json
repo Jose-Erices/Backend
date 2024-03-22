@@ -1,0 +1,44 @@
+[
+    {
+      "id": "fb4d2311e584c5eb82bad4d9",
+      "photo": "https://concepto.de/wp-content/uploads/2018/08/persona-e1533759204552.jpg",
+      "email": "jose.erices.gonzalez@gmail.com",
+      "password": "12345678a",
+      "role": "Controller"
+    },
+    {
+      "id": "c3992e3eee4c5b228d729f2e",
+      "photo": "https://blog.hubspot.es/hubfs/media/buyerpersona.jpeg",
+      "email": "carolina.pino.navarro@gmail.com",
+      "password": "98765432aqwd",
+      "role": "Controller"
+    },
+    {
+      "id": "cd1eefbd4bb57efd7e84e4ae",
+      "photo": "https://blog.hubspot.es/hubfs/media/buyerpersona.jpeg",
+      "email": "carolina.navarro@gmail.com",
+      "password": "98765432aedw",
+      "role": "Controller"
+    },
+    {
+      "id": "bb294ce15c6f3aa8cda31ccb",
+      "photo": "https://s3.abcstatics.com/media/summum/2021/10/01/maxi_iglesias-kU2E--1248x698@abc.jpeg",
+      "email": "lorenzo.guarda@gmail.com",
+      "password": "lore23678edd",
+      "role": "Controller"
+    },
+    {
+      "id": "3509331be6cda553e06a6114",
+      "photo": "https://img.freepik.com/foto-gratis/retrato-mujer-casual-sonriente_171337-4168.jpg",
+      "email": "fabiola.erices@gmail.com",
+      "password": "FErices39deqwed",
+      "role": "Controller"
+    },
+    {
+      "id": "9d216d6d9b20f916f3f29893",
+      "photo": "https://s3.abcstatics.com/media/summum/2021/10/01/maxi_iglesias-kU2E--1248x698@abc.jpeg",
+      "email": "alejandroM@gmail.com",
+      "password": "Alejan2eqdwdc",
+      "role": "Controller"
+    }
+  ]

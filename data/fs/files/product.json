@@ -1,0 +1,154 @@
+[
+    {
+    "id": "bfce6244963372fab2bce6cc",
+    "title": "Master Dog",
+    "photo": "/img/Master Dog.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 25000,
+    "stock": 29
+    },
+    {
+    "id": "a6ec9321784af1352f4304f3",
+    "title": "Dog Chow",
+    "photo": "/img/Dog Chow.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 34000,
+    "stock": 49
+    },
+    {
+    "id": "42809f62881d082e64f618a0",
+    "title": "Royal Canin",
+    "photo": "/img/Royal Canin.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 33500,
+    "stock": 14
+    },
+    {
+    "id": "c594ac6a4b70a6b9d4063cfb",
+    "title": "Happy Dog",
+    "photo": "/img/Happy Dog.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 39000,
+    "stock": 20
+    },
+    {
+    "id": "0b894e9e7179e90282ad2e8d",
+    "title": "Cat Lover",
+    "photo": "/img/Cat Lover.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 29900,
+    "stock": 13
+    },
+    {
+    "id": "e8fc1668933347771230d799",
+    "title": "Whiskas",
+    "photo": "/img/Whiskas.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 38000,
+    "stock": 9
+    },
+    {
+    "id": "f520fc4957d5116d310e798b",
+    "title": "Mascotin",
+    "photo": "/img/Master Dog.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 34000,
+    "stock": 49
+    },
+    {
+    "id": "d8dd84111c936151999dd52e",
+    "title": "LoverGat",
+    "photo": "/img/LoverGat.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 38000,
+    "stock": 9
+    },
+    {
+    "id": "f7c4fdb82bd0e400d6feb579",
+    "title": "Arena de Gato",
+    "photo": "/img/Arena de Gato.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 15000,
+    "stock": 2
+    },
+    {
+    "id": "d25a72b8303123418273871c",
+    "title": "Correa de perros",
+    "photo": "/img/Correa de perros.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 30000,
+    "stock": 15
+    },
+    {
+    "id": "d25a72b8303123418273871c",
+    "title": "Correa de perros",
+    "photo": "/img/Correa de perros.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 30000,
+    "stock": 15
+    },
+    {
+    "id": "d25a72b8303123418273871c",
+    "title": "Correa de perros",
+    "photo": "/img/Correa de perros.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 30000,
+    "stock": 15
+    },
+    {
+    "id": "d25a72b8303123418273871c",
+    "title": "Correa de perros",
+    "photo": "/img/Correa de perros.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 30000,
+    "stock": 15
+    },
+    {
+    "id": "d25a72b8303123418273871c",
+    "title": "Correa de perros",
+    "photo": "/img/Correa de perros.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 30000,
+    "stock": 15
+    },
+    {
+    "id": "d25a72b8303123418273871c",
+    "title": "Correa de perros",
+    "photo": "/img/Correa de perros.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 30000,
+    "stock": 15
+    },
+    {
+    "id": "d25a72b8303123418273871c",
+    "title": "Correa de perros",
+    "photo": "/img/Correa de perros.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 30000,
+    "stock": 15
+    },
+    {
+    "id": "d25a72b8303123418273871c",
+    "title": "Correa de perros",
+    "photo": "/img/Correa de perros.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 30000,
+    "stock": 15
+    },
+    {
+    "id": "d25a72b8303123418273871c",
+    "title": "Correa de perros",
+    "photo": "/img/Correa de perros.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 30000,
+    "stock": 15
+    },
+    {
+    "id": "d25a72b8303123418273871c",
+    "title": "Correa de perros",
+    "photo": "/img/Correa de perros.jpg",
+    "category": "Alimento y accesorios de mascotas",
+    "price": 30000,
+    "stock": 15
+    }
+    ]
