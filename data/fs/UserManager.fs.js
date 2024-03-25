@@ -20,8 +20,8 @@ class UsersManager {
 
     async create(data) {
         try {
-            if (!data.text) {
-                throw new Error("INGRESE TEXT");
+            if (!data.role) {
+                throw new Error("ingrese el role");
             } else {
                 const users= {
                     id: crypto.randomBytes(12).toString("hex"),
@@ -85,54 +85,5 @@ class UsersManager {
         }
     }
 }
-// creación del archivo con el node 
-
-async function set() {
-    try {
-        const usersManager = new UsersManager();
-
-      await gestorDeUsuarios.create({
-        photo: "https://img.freepik.com/foto-gratis/retrato-mujer-casual-sonriente_171337-4168.jpg",
-        email: "fabiola.erices@gmail.com",
-        password: "FErices39deqwed",
-        role: "Controller",
-      });
-      await gestorDeUsuarios.create({
-        photo: "https://concepto.de/wp-content/uploads/2018/08/persona-e1533759204552.jpg",
-        email: "jose.erices.gonzalez@gmail.com",
-        password: "12345678a",
-        role: "Controller"
-
-      });
-      await gestorDeUsuarios.create({
-        photo: "https://blog.hubspot.es/hubfs/media/buyerpersona.jpeg",
-        email: "carolina.pino.navarro@gmail.com",
-        password: "98765432aedw",
-        role: "Controller"
-      });
-      await gestorDeUsuarios.create({
-        photo: "https://s3.abcstatics.com/media/summum/2021/10/01/maxi_iglesias-kU2E--1248x698@abc.jpeg",
-        email: "lorenzo.guarda@gmail.com",
-        password: "lore23678edd",
-        role: "Controller",
-        
-      });
-      await gestorDeUsuarios.create({
-        photo: "https://s3.abcstatics.com/media/summum/2021/10/01/maxi_iglesias-kU2E--1248x698@abc.jpeg",
-        email: "alejandroM@gmail.com",
-        password: "Alejan2eqdwdc",
-        role: "Controller",
-      });
-
-        await usersManager.readOne("d216d6d9b20f916f3f29893"); // Ajusta el ID según tus necesidades
-        await usersManager.readOne(third.id); // Ajusta según tus necesidades
-        await usersManager.destroy(third.id); // Ajusta según tus necesidades
-    } catch (error) {
-        console.log(error);
-    }
-}
-
-set();
-
-const userManager = new UsersManager();
-export default userManager;
+const usersManager = new UsersManager();
+export default usersManager;
