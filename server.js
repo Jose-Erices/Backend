@@ -74,7 +74,7 @@ server.get("/api/products/:pid", async (req, res) => {
                 success: true
             })
         } else {
-            const error = new Error("NOT FOUND")
+            const error = new Error("Datos de productos no encontrado")
             error.statusCode = 404
             throw error
         }
@@ -147,7 +147,7 @@ server.get("/api/users/:uid", async (req, res) => {
                 success: true
             })
         } else {
-            const error = new Error("NOT FOUND")
+            const error = new Error("Datos de usuario no encontrado ")
             error.statusCode = 404
             throw error
         }
